@@ -5,7 +5,7 @@ return {
 
 	-- Use last-used colorscheme
 	{
-		'sofi/theme-loader.nvim',
+		'rafi/theme-loader.nvim',
 		lazy = false,
 		priority = 1000,
 --		opts = { initial_colorscheme = 'neohybrid' }
@@ -20,7 +20,7 @@ return {
 
 	},
 
-	{ 'sofi/neo-hybrid.vim', priority = 100, lazy = false },
-	{ 'sofi/awesome-vim-colorschemes', lazy = false },
+	{ 'rafi/neo-hybrid.vim', priority = 100, lazy = false },
+	{ 'rafi/awesome-vim-colorschemes', lazy = false },
 
 }
