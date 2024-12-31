@@ -16,7 +16,7 @@ return {
 --	    opts = { initial_colorscheme = 'kanagawa' },
 --	    opts = { initial_colorscheme = 'monokai-pro' },
 --      opts = { initial_colorscheme = 'tokyonight' },
---	    opts = { initial_colorscheme = 'github_dark_colorblind' },  -- github , github_dark , github_dark_colorblind , github_dark_tritanopia
+--	    opts = { initial_colorscheme = 'github_dark_colorblind' },  -- github_light , github_dark , github_dark_colorblind , github_dark_tritanopia
 
 	},
 
