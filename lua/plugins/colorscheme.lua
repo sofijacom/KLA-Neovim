@@ -1,5 +1,5 @@
 -- Plugins: Colorschemes
--- https://github.com/sofijacom/KLA-Nvim
+-- https://github.com/sofijacom/KL-Neovim
 
 return {
 
