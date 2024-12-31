@@ -1,5 +1,8 @@
 -- Plugins: Colorschemes
 -- https://github.com/sofijacom/KL-Neovim
+-- https://github.com/sofijacom/theme-loader.nvim
+-- https://github.com/sofijacom/neo-hybrid.vim
+-- https://github.com/sofijacom/awesome-vim-colorschemes
 
 return {
 
