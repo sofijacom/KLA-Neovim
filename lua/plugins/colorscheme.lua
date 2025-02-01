@@ -1,12 +1,14 @@
 -- Plugins: Colorschemes
--- https://github.com/sofijacom/KL-Neovim
+-- https://github.com/sofijacom/KLA-Neovim
 -- https://github.com/sofijacom/theme-loader.nvim
 -- https://github.com/sofijacom/neo-hybrid.vim
 -- https://github.com/sofijacom/awesome-vim-colorschemes
 
 return {
 
-	-- Use last-used colorscheme
+	-- Use last-used colorscheme.
+	-- To change the theme, delete the file " theme.txt " in  /.local/share/nvim/theme.txt .
+	-- Then uncomment the desired topic below, and comment the old one.
 	{
 		'sofijacom/theme-loader.nvim',
 		lazy = false,
