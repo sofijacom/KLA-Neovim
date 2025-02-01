@@ -7,7 +7,7 @@
 return {
 
 	-- Use last-used colorscheme.
-	-- To change the theme, delete the file " theme.txt " in  /.local/share/nvim/theme.txt .
+	-- To change the theme, delete the file " theme.txt " in  $HOMME/.local/share/nvim/theme.txt .
 	-- Then uncomment the desired topic below, and comment the old one.
 	{
 		'sofijacom/theme-loader.nvim',
